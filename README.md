@@ -21,3 +21,6 @@ Credits go to their respective owners.
 | stable-diffusion-webui-rembg | https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg         |
 | ControlNet                   | https://github.com/Mikubill/sd-webui-controlnet.git                   |
 | Wildcards                    | https://github.com/AUTOMATIC1111/stable-diffusion-webui-wildcards.git |
+| batchlinks-webui             | https://github.com/etherealxx/batchlinks-webui                        |
+| tunnels                      | https://github.com/camenduru/tunnels                                  |
+| sd-civitai-browser           | https://github.com/camenduru/sd-civitai-browser                       |
